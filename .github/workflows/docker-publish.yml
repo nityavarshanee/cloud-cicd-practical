@@ -32,4 +32,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: nitya/cloud-cicd-practical:latest
+          tags: nitya2026/cloud-cicd-practical:latest
